@@ -18,6 +18,7 @@ jobs:
           - arma3
           - fivem
           - source
+          - life_is_feudal_your_own
     steps:
       - uses: actions/checkout@v2
       - uses: docker/setup-buildx-action@v1
